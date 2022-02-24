@@ -1,2 +1,2 @@
 # BinarAcademy-Challenge01
-Landing Page of Binar Car Rental + Bootstrap (Static 1920x1080)
+Landing Page of Binar Car Rental + Bootstrap  & Font Awesome (Static 1920x1080)
